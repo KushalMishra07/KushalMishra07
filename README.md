@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python,Data Science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Godsownenvoy@gmail.com
+- 📫 How to reach me ... kushalmishra079@gmail.com
 
 <!---
 KushalMishra07/KushalMishra07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
