@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kushal Mishra
 - 👀 I’m interested in Python, Data Science, Data Engineering, AI&ML
-- 🌱 I’m currently learning Python, Cloud Services
-- 💞️ I’m looking to collaborate on ...Python Projects
+- 🌱 I’m currently learning Python, Cloud Services like AWS, Snowflake
+- 💞️ I’m looking to collaborate on ...Python, Snowflake, Database Projects
 - 📫 How to reach me ... kushalmishra079@gmail.com
 
 <!---
